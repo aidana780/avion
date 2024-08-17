@@ -1,0 +1,56 @@
+.pro{
+    display: flex;
+    margin-top: 70px;
+  
+}
+.pro-1{
+        margin-left: 40px;
+       font-size: 40px;
+       font-family:Montserrat ;
+}
+.pro-2{
+   font-size: 20px;
+   margin-top: 70px;
+}
+.pro-3{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.pro-4{
+    font-size: 20px;
+    margin-top: 30px;
+}
+.pro-5{
+   display: flex;
+   font-size: 20px;
+   margin-top: 70px;
+}
+.pro-6{
+    font-size: 30px;
+    margin-top: 60px;
+}
+.pro-7{
+    margin-right: 20px;
+}
+.pro-8{
+    margin-left:20px ;
+}
+.pro-9{
+    display:flex ;
+    button{
+        width: 40px;
+        height: 40px;
+    }
+}
+.pro-10{
+    font-size: 26px;
+    margin-top: 10px;
+}
+.pro-10-bt{
+    button{
+        width: 70px;
+        height: 40px;
+        margin-left: 100px;
+        margin-top: -10px;
+    }
+}

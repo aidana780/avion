@@ -1,0 +1,22 @@
+.lay {
+  display: flex;
+  justify-content: space-between;
+ padding: 40px 28px 15px;
+}
+.lay-2 {
+  display: flex;
+  width: 30px;
+  height: 30px;
+}
+
+button {
+  border: none;
+  padding: 5px 2px;
+  margin-right: 10px;
+}
+.active {
+  border: 1px solid black;
+}
+.lay-1{
+  font-family: Montserrat;
+}

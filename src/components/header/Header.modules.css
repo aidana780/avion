@@ -1,0 +1,12 @@
+.navList{
+display:flex;
+justify-content: space-between;
+list-style: none;
+width: 60%;
+margin: 0 auto;
+font-family: Montserrat;
+
+}
+.link{
+    text-decoration: none;
+}

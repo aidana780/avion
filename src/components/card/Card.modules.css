@@ -1,0 +1,11 @@
+.card{
+justify-content: center;
+display: flex;
+h1{
+    font-family:Montserrat;
+    margin-bottom: 60px;
+}
+}
+.card-1{
+    margin-bottom: 20px;
+}

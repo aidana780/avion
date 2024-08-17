@@ -1,0 +1,26 @@
+.hove{
+    display: flex;
+}
+.imag{
+    width: 680px;
+    margin-left: 300px;
+}
+.bu{
+    color: #2A254B ;
+    background-color: rgb(233, 230, 230);
+    width: 100px;
+    height: 40px;
+    margin-left: 20px;
+}
+.hove-1{
+    h1{
+        margin-bottom: 100px;
+        margin-left: 20px;
+        font-family: Montserrat;
+    }
+    p{
+        margin-bottom: 40px;
+        margin-left: 20px;
+        font-family: Montserrat;
+    }
+}

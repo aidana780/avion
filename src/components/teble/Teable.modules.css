@@ -1,0 +1,26 @@
+.teble-1{
+    background-color:#2A254B;
+    width: 700px;
+    
+    h1{
+        margin-bottom: 130px;
+        font-family: Montserrat;
+        color: white;
+    }
+    p{
+        margin-top: 100px;
+        color: white;
+        font-family: Montserrat;
+    }
+}
+.teble{
+    display: flex;
+    margin-top: 40px;
+}
+.ima{
+    width: 700px;
+    height: 620px;
+}
+
+
+

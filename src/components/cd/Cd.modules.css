@@ -1,0 +1,48 @@
+.cd{
+    display: flex;
+    justify-content: space-between;
+}
+.cd-1{
+    margin-right: 40px;
+   h4{
+    margin-top: 10px;
+    font-family: Montserrat;
+   }
+   p{
+    margin-top: 10px;
+    font-family:Montserrat ;
+   }
+ 
+}
+.cd-2{
+    margin-right: 40px;
+    h4{
+        margin-top: 10px;
+        font-family: Montserrat;
+    }
+    p{
+        margin-top: 10px;
+        font-family: Montserrat;
+    }
+}
+.cd-3{
+    margin-right: 40px;
+h4{
+    margin-top: 10px;
+    font-family: Montserrat;
+}
+p{
+    margin-top: 10px;
+    font-family: Montserrat;
+}
+}
+.cd-4{
+    h4{
+        margin-top: 10px;
+        font-family: Montserrat;
+    }
+    p{
+        margin-top: 10px;
+        font-family: Montserrat;
+    }
+}
